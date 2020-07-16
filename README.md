@@ -16,3 +16,4 @@
 
 - TeXLive 或其他 TeX 发行。
 
+- Python 3
