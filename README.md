@@ -17,3 +17,6 @@
 - TeXLive 或其他 TeX 发行。
 
 - Python 3
+
+## 作者
+li-zhenyu
