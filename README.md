@@ -3,6 +3,6 @@
 
 示例：
 
-链接： 密码：phu4z4
+链接：https://share.weiyun.com/ORqoNPL7 密码：phu4z4
 
 或在 /example 下。
