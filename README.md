@@ -32,6 +32,10 @@
 
 5. `./output` 里的 `output.pdf` 即生成的文件。
 
+## 可用性
+
+目前只测试了 http://biqiuge.com。
+
 ## 作者
 
 li-zhenyu
