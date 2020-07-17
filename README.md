@@ -20,6 +20,8 @@
 
 ## 用法
 
+1. 创建 `output`、`temp` 文件夹。
+
 1. 使用 FictionDown 下载源文件（×.FictionDown）。
 
 2. 把源文件更名为 novel.yaml,置于本程序根目录下。
@@ -28,6 +30,7 @@
 
 4. 进入 `.\output`，两次运行 `xelatex -synctex=1 -interaction=nonstopmode output.tex`。
 
+5. `./output` 里的 `output.pdf` 即生成的文件。
 
 ## 作者
 
