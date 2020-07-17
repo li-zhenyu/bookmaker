@@ -34,7 +34,7 @@
 
 ## 可用性
 
-目前只测试了 http://biqiuge.com。
+目前只测试了 https://www.biqiuge.com 。
 
 ## 作者
 
